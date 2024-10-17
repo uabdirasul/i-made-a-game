@@ -4,12 +4,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "http-server -p 8888"
+    "start": "live-server"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "live-server": "^1.2.2"
   }
 }
