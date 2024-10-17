@@ -15,7 +15,7 @@ class mainScene {
 
     // Set the size of the monster and coin
     this.monster.setDisplaySize(50, 50);
-    this.coin.setDisplaySize(30, 30);
+    this.coin.setDisplaySize(40, 40);
 
     // Initialize score
     this.score = -10;
