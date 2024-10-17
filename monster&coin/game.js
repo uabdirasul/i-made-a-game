@@ -16,7 +16,7 @@ class mainScene {
     this.coin.setDisplaySize(30, 30); // Width, Height in pixels
 
     // Initialize score
-    this.score = 0;
+    this.score = -10;
 
     // Style for the score text
     let style = { font: "20px Arial", fill: "#fff" };
